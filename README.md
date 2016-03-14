@@ -1,6 +1,9 @@
 
 ##Know Your Four Letter Countries
 <img src="https://s3.amazonaws.com/after-school-assets/globe.jpeg" align="right" width="300px" hspace="10">
+
+This is a mini-lab for you to learn more about arrays. Use your browser JavaScript console to create and modify the array below!
+
 + Create an array called `fourLetterCountries` with the following countries (in this order):
 	- Chad
 	- Cuba
@@ -25,7 +28,6 @@
 + **Reverse** the order of the array again
 
 + Add **Peru** to the start of the array
-
 
 ### What does your final array look like?
 
