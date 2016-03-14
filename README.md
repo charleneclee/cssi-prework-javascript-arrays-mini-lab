@@ -4,6 +4,13 @@
 
 This is a mini-lab for you to learn more about arrays. Use your browser JavaScript console to create and modify the array below!
 
+Important Methods to Remember:
++ `.push`
++ `.splice`
++ `.reverse`
++ Replacing using square brackets
+
+
 + Create an array called `fourLetterCountries` with the following countries (in this order):
 	- Chad
 	- Cuba
